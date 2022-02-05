@@ -1,0 +1,2 @@
+I opened hello_world and added some text to it
+Now I will save it and stage it.
